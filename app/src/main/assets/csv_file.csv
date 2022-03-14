@@ -1,0 +1,375 @@
+Android KEY,TR,EN,IT,FR,ES,GERMAN
+ac,AC,AC,CA,AC,CA,AC
+accept,Kabul Ediyorum,Accept,Accetto,J'accepte,Acepto,Ich stimme zu
+i_want_to_be_informed_about_the_campaigns,"İzin vermeniz halinde, size ticari ileti gönderebilecek ve bilgileriniz hizmet alınan 3. kişilerle paylaşılabilecektir.",I want to be informed about the campaigns,"Se consentite, saremo in grado di inviarvi messaggi commerciali e le vostre informazioni potranno essere condivise con terze parti da cui viene ricevuto il servizio.",Je veux être informé des campagnes,"Si permite, se puede enviar mensajes comerciales a usted y sus datos se pueden compartir con terceras que prestan servicios.","Wenn Sie zustimmen, können Sie kommerzielle Nachrichten erhalten und Ihre Informationen können an Drittdienstleister weitergegeben werden."
+i_accept_the_online_sales_contract_agreement,Satış sözleşmesini kabul ediyorum.,I accept the online selling contract agreement,Accetto il contratto di vendita,J'accepte le contrat de vente en ligne,Acepto el contrato de venta.,Ich akzeptiere den Kaufvertrag.
+active,Aktif,Active,Attivo,Actif,Activo,Aktiv
+details,Detaylar,Details,Details,Details,Details,Details
+add_payment_method,Yeni Kart Ekle,Add Payment Method,Aggiungere nuova carta,Ajouter une nouvelle carte,Añadir Tarjeta Nueva,Neue Karte hinzufügen
+add_new_vehicle,Yeni Araç Ekle,Add New Vehicle,Aggiungere nuovo veicolo,Ajouter un nouveau véhicule,Añadir Vehículo Nuevo,Neues Fahrzeug hinzufügen
+address_detail,Adres Detayları,Address Details,Dettagli indirizzo,Détails de l'adresse,Detalles de Dirección,Adressen Details
+address,Adres,Address,Indirizzo,Adresse,Dirección,Adresse  
+address_star,Adres *,Address *,Indirizzo *,Adresse *,Dirección *,Adresse *
+add_vehicle,Araç Ekle,Add Vehicle,Aggiungere veicolo,Ajouter un véhicule,Añadir Vehículo,Fahrzeug hinzufügen
+are_you_sure_you_want_delete_this_card,Seçili kartı silmek istediğinizden emin misiniz?,Are you sure you want to delete this card?,Avete sicuro di voler eliminare questa carta?,Voulez-vous vraiment supprimer cette carte ?,¿Está seguro de que quiera borrar esta tarjeta?,Möchten Sie die ausgewählte Karte wirklich löschen?
+are_you_sure_you_want_to_delete_this_vehicle,Bu aracı silmek istediğinize emin misiniz?,Are you sure you want to delete this vehicle?,Avete sicuro di voler eliminare questo veicolo?,Êtes-vous sûr de vouloir supprimer ce véhicule ?,¿Está seguro de que quiera borrar este vehículo?,Möchten Sie dieses Fahrzeug wirklich löschen?
+available,Uygun,Available,Disponibile,Disponible,Disponible,Angemessen
+back,Geri,Back,Dietro,Arrière,Atrás,Zurück
+,Standart Paket,Basic Package,Pacchetto base,Forfait Standard,Paquete básico,Standardpaket
+book,Rezervasyon Yap,Book,Prenota,Faire une réservation,Reservar,Reservieren
+booked,Rezerve edildi,Booked,È stato prenotato,Réservé,Reservado,Reserviert
+booking_cancelled_by_operator,Rezervasyon operatör tarafından iptal edildi.,Booking cancelled by operator.,La prenotazione è stata cancellata dall'operatore,Réservation annulée par l'opérateur.,La reserva se canceló por el operador,Die Reservierung wurde vom Betreiber storniert.
+bookings,İşlemlerim,Bookings,Le mie prenotazioni,Réservations,Mis reservas,Meine Transaktionen
+_0,{0},{0},{0},{0},{0},{0}
+cancel,İptal,Cancel,Eliminare,Annuler,Cancelar,Abbrechen
+cancel_booking,Rezervasyonu iptal et,Cancel Booking,Eliminare prenotazione,Annuler la réservation,Cancelar la reserva,Reservierung stornieren
+cancelled,İptal edildi,Cancelled,È stato eliminato,Annulé,Cancelado,Storniert
+card_details,Kart detayı,Card Details,Dettagli carta,Détails de la carte,Detalles de la Tarjeta,Kartendetail
+card_number,Kart numarası *,Card Number,N.carta,Numéro de carte,Número de la Tarjeta,Kartennummer *
+change_password,Şifreyi Değiştir,Change Password,Cambiare password,Changer le mot de passe,Cambiar la Contraseña,Passwort ändern
+Charging completed,Şarj işlemi tamamlandı,Charging completed,È stata completata ricarica,Chargement terminé,Carga completada,Ladevorgang abgeschlossen
+change_password,Şarj Bitiş Tarihi,Charge End Time,Data di fine ricarica ,Heure de fin de charge,Tiempo Final de la Carga,Ladeenddatum
+charging_started,Şarj işlemi başlatıldı,Charging Started,È stata iniziata ricarica,Charge commencée,Carga Empezada,Ladevorgang gestartet
+charge_start_time,Şarj Başlangıç Zamanı,Charge Start Time,Ora di inizio ricarica,Heure de début de charge,Tiempo Inicial de la Carga,Ladestartzeit
+charging,Şarj oluyor,Charging,Sta caricando,Mise en charge,Cargando,am Laden
+charging_stops,Şarjınız durduruluyor…,Charging stops...,Sta scaricando…,Votre charge est arrêtée…,La carga se termina...,Ladevorgang wird gestoppt…
+city,Şehir *,City *,Provincia,Ville *,Ciudad *,Stadt *
+closing_hours,Bitiş Saati,Closing Hours,Orari di chiusura,Heures de fermeture,Horarios de cierre,Schließzeiten
+complaint,Şikayet,Complaint,Denuncia,Plainte,Queja,Beschwerde
+completed,Tamamlandı,Completed,È stato completato,Complété,Completado,Abgeschlossen
+are_you_sure_you_want_to_stop_charging,Şarj işlemini sonlandırmak istediğinizden emin misiniz?,Are you sure you want to stop charging?,Avete sicuro di voler interrompere la ricarica?,Êtes-vous sûr de vouloir arrêter la charge ?,¿Está seguro de que quiere terminar la carga?,Möchten Sie den Ladevorgang wirklich beenden?
+continue_label,Devam Et,Continue,Continuare,Continuer,Continuar,Weiter
+skip,Üye olmadan devam et,Skip,Saltare,Continuer sans être membre,Pasar sin adhesión,Weiter ohne Mitgliedschaft
+country,Ülke *,Country *,Paese *,Pays *,País *,Land *
+cp_detail,Şarj İstasyonu Detayı,CP Detail,Dettaglio della stazione di ricarica (SR),Détail de la station de charge,Detalle de Estación de Carga,Detail zur Ladestation
+cvv,CVV,CVV,CVV,CVV,CVV,CVV *
+date,Tarih,Date,Data,Date,Fecha,Datum
+dc,DC,DC,DC,DC,DC,DC
+decline,Reddet,Decline,Declinare,Déclin,Rechazar,Ablehnen
+default_label,Varsayılan,Default,Default,Défaut,Predeterminado,Standard
+duration,geçen süre,duration,durata,Durée,Duración,vergangene Dauer
+email,E-posta *,Email*,Email*,E-mail*,Correo electrónico *,Email *
+email_us,E-posta,Email Us,Mandaci una email,Envoyez-nous un email,Envíenos un correo electrónico,Email
+end_time,Bitiş Saati,End Time,Fine della durata,Heure de fin,Tiempo Final,Endzeit
+enter_your_subject,Konu giriniz,Enter your Subject,Inserire oggetto,Entrez votre sujet,Introduzca su Asunto,Betreff eingeben
+make_sure_the_socket_is_plugged_into_your_vehicle_to_start_charging_with_qr_code,Qr kod ile şarj istemini başlatabilmek için şarj kablosunu aracınıza ve istasyona taktığınızdan emin olun.,Make sure the socket is plugged into your vehicle to start charging with QR code.,Assicurarsi che la presa sia collegata al vostro veicolo per iniziare a caricare con il codice QR,Assurez-vous que la prise est branchée sur votre véhicule pour commencer à charger avec le code QR.,Asegúrese de que el enchufe está conectado a su vehículo antes de iniciar la carga con el código QR.,"Schließen Sie das Ladekabel unbedingt an Ihrem Fahrzeug und an der Station an, um die Ladeanfrage mit dem QR-Code zu starten."
+your_locations_settings_is_set_to_off_please_enable_location_to_use_this_app,Lütfen konum servisini etkinleştiriniz ve sayfayı yenileyiniz.,Your Locations Settings is set to Off.\n Please Enable Location to use this app,Abilitare il servizio di localizzazione e aggiornare la pagina,Veuillez activer le service de localisation et actualiser la page.,Por favor permita el servicio de ubicación y actualice la página.,Bitte aktivieren Sie den Standortdienst und aktualisieren Sie die Seite.
+communication_with_the_server_is_lost_due_to_a_technical_fault,"Şu an yaşanan teknik bir arıza nedeniyle işlem gerçekleştirilemedi, lütfen daha sonra tekrar deneyiniz.",Communication with the server is lost due to a technical fault,"Al momento non è stato possibile eseguire l'operazione a causa di un guasto tecnico, riprovare più tardi.",La communication avec le serveur est perdue en raison d'un défaut technique; Veuillez réessayer plus tard.,"La comunicación con el servidor se ha perdido por una falta técnica, por favor inténtelo de nuevo más tarde.","Der Vorgang konnte derzeit aufgrund eines technischen Fehlers nicht ausgeführt werden, bitte versuchen Sie es später erneut."
+card_expiry_month,Ay *,Card Expiry Month,Mese di scadenza della carta,Mois d'expiration de la carte,Mes de expiración de la tarjeta,Monat*
+failed,Başarısız,Failed,Fallito,Échoué,Fracasado,gescheitert
+faqLink,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/FAQ_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/FAQ_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/FAQ_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/FAQ_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/FAQ_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/FAQ_EN.html
+first_name,İsim *,First Name *,Nome *,Prénom *,Primer Nombre *,Vorname*
+give_us_a_ring,Telefon,Give us a ring,Telefono,Téléphone,Llámenos,Telefon
+have_a_compliant,Görüş Bildiriniz,Have a Complaint?,Avete alcuna denuncia? ,Vous avez une réclamation ?,Tiene alguna queja?,Feedback geben
+history,History,History,Storia,Histoire,Historia,Geschichte
+home,Ana Sayfa,Home,Home,Accueil,Página principal,Startseite
+inactive,Aktif değil,Inactive,Inattivo,Inactif,Inactivo,Nicht aktiv
+invoice_amount,Fatura Bilgileri,Usage Amount,Dati fattura,Quantité d'utilisation,Cantidad de uso,Abrechnungsdaten
+s_km,{0} km,{0} km,{0} km,{0} km,{0} km,{0} km
+s_kWh,{0} kW,{0} kW,{0} kW,{0} kW,{0} kW,{0} kW
+s_kW,{0} kWh,{0} kWh,{0} kWh,{0} kWh,{0} kWh,{0} kWh
+lable_max_charge_duration,Max Charge Duration:,Max Charge Duration:,Durata massima della ricarica:,Durée de charge maximale :,Duración máxima de carga:,Maximale Ladedauer:
+s_mins,{0} dk,{0} Mins,{0} Minuti,{0} minutes,{0} Minutos,{0} Minuten
+lable_one_time_fee,Tek Seferlik Ücret,One Time Fee:,Una sola tassa,Frais uniques :,Cuota única:,Einmalige Gebühr
+language,Dil,Language,Lingua,Langue,Idioma,Sprache
+last_name,Soyad *,Last Name *,Cognome *,Nom de famille *,Apellido *,Nachname *
+list,Liste,List,Elenco,Liste,Lista,Liste 
+load_more_Items,Daha fazla göster,Load More Items,Caricare più articoli,Charger plus d'articles,Muestra más,mehr anzeigen
+sign_out?,Çıkış Yap,Logout,Logout,Se déconnecter,Cerrar la sesión,Ausloggen
+mandatory_details,Zorunlu Alanlar,Mandatory Details,Dettagli obbligatori,Détails obligatoires,Detalles obligatorios,Pflichtfelder
+map,Harita,Map,Mappa,Carte,Mapa,Landkarte
+message_text,Mesaj *,Message *,Messaggio *,Message *,Mensaje *,Nachricht *
+charging_not_started_your_booking_was_at_s,Şarj işlemi henüz başlamadı. Rezervasyon başlangıç saatiniz: {0},Charging not started. Your booking was at %s,La ricarica non è ancora iniziata. Ora di inizio della vostra prenotazione: {0},La charge n'a pas commencé. Votre demande de recharge était à {0},La carga no se ha iniciado. Su pedido de carga estuvo en {0},Der Ladevorgang hat noch nicht begonnen. Ihre Reservierungsstartzeit: {0}
+my_details,Hesap Bilgilerim,My Details,Miei dati,Mes Details,Mis detalles,meine Konto-Informationen
+new_card_added_successfully,Yeni kart başarıyla eklendi,New card added successfully,Nuova carta aggiunta con successo,Nouvelle carte ajoutée avec succès,La nueva tarjeta se ha introducido exitosamente,Neue Karte erfolgreich hinzugefügt
+no_connector_available_for_this_cp,"Bu soket dolu, lütfen başka bir istasyon veya zaman aralığı seçiniz.",No Connector available for this Charge Point,"Questa presa è piena, selezionare un'altra stazione o periodo di tempo",Aucun connecteur disponible pour cette borne de recharge,"Este conector no está disponible, por favor elija otra estación u otro horario.",Dieser Verbinder ist besetzt. Bitte wählen Sie eine andere Station oder ein anderes Zeitfenster.
+not_available,,Not Available,Non disponibile,Pas disponible,No está disponible,Nicht verfügbar
+notification,Bildirim,Notification,Notificazioni,Notification,Notificaciones,Benachrichtigungen
+notifications,Bildirimler,Notifications,Notificazioni,Notifications,Notificaciones,Benachrichtigungen
+ok,Tamam,Ok,OK,D'accord,Ok,OK
+opening_hours,Açılış Saati,Opening Hours,Ora di apertura,Horaires d'ouvertures,Horario de apertura,Öffnungszeit
+or,ya da,or,o,ou,o,oder
+other,Diğer,Other,Altro,Autre,Otro,Sonstiges
+password,Şifre,Password,Password,Mot de passe,Contraseña,Passwort
+payment_details,Ödeme Detayları,Payment Details,Dati pagamenti,Détails de paiement,Detalles de pago,Zahlungsdetails
+personal_detail,Kişisel Bilgiler,Personal Detail,Dettagli personali,Détail personnel,Detalles personales,Persönliche Informationen
+please_enter_your_message,Lütfen metin alanını doldurunuz.,"The message of your email is blank, please enter","Il messaggio della vostra email è vuoto, inserirlo","Le champ de message de votre email est vide, veuillez saisir",Por favor llene el texto,Bitte füllen Sie das Textfeld aus.
+pleases_can_valid_qrcode,Lütfen geçerli bir QR kod okutunuz.,Please scan a valid QR Code.,Si prega di eseguire la scansione di un codice QR valido.,Veuillez scanner un code QR valide.,Por favor escanee un código de QR válido,Bitte lesen Sie einen gültigen QR-Code.
+please_send_us_any_complaints_and_suggestions_on,Şikayet ve önerilerinizi her zaman bize iletebilirsiniz:,Please send us any complaints and suggestions on,Vi preghiamo di inviarci eventuali denuncie e suggerimenti su ….,Veuillez nous envoyer vos plaintes et suggestions,Por favor envíenos sus quejas y sugerencias.,Sie können uns jederzeit Ihre Beschwerden und Anregungen zukommen lassen:
+please_signIn_for_user_profile,Profilinize erişmek için lütfen giriş yapınız,Please sign in to access your profile,Effettuare il login per accedere al vostro profilo,Veuillez vous connecter pour accéder à votre profil,Por favor inicie su sesión para acceder a su perfil,"Bitte loggen Sie sich ein, um auf Ihr Profil zuzugreifen."
+please_sign_in_to_make_a_booking,Rezervasyon yapabilmek için giriş yapınız,Please sign-in to make a booking,Accedere per fare una prenotazione,Veuillez vous connecter pour faire une réservation,Por favor inicie su sesión para hacer una reserva,"Melden Sie sich an, um eine Reservierung vorzunehmen"
+click_here_to_payment_method,Yeni bir kart eklemek için buraya tıklayınız,Click Here to Add Payment Method,Toccare qui per aggiungere una nuova carta,Veuillez appuyer ici pour ajouter une nouvelle carte,Por favor haga click aquí para introducir una tarjeta nueva,"Klicken Sie hier, um eine neue Karte hinzuzufügen"
+click_here_to_add_vehicle,Araç eklemek için buraya tıklayınız,Click Here to Add Vehicle,Toccare qui per aggiungere il veicolo,Veuillez appuyer ici pour ajouter un véhicule,Por favor haga click aquí para introducir un vehículo,"Klicken Sie hier, um ein Fahrzeug hinzuzufügen"
+power,enerji,power,potenza,Energie,Energía,Energie
+profile,Profil,Profile,Profilo,Profil,Perfil,Profil
+charge_with_qr,QR ile Şarj Başlat,Charge with QR,Carica con QR,Chargez avec QR,İniciar la carga con QR,Starten Sie den Ladevorgang mit QR
+recent,Sık Kullanılanlar,Recent,Recente,Récent,Reciente,Favoriten
+sales_agreement_link,https://vestelstoragedev.blob.core.windows.net/staticpage/SalesAgreement_TR.html,https://vestelstoragedev.blob.core.windows.net/staticpage/SalesAgreement_EN.html,https://vestelstoragedev.blob.core.windows.net/staticpage/SalesAgreement_EN.html,https://vestelstoragedev.blob.core.windows.net/staticpage/SalesAgreement_EN.html,https://vestelstoragedev.blob.core.windows.net/staticpage/SalesAgreement_EN.html,https://vestelstoragedev.blob.core.windows.net/staticpage/SalesAgreement_DE.html
+save,Kaydet,Save,Salvare,sauvegarder,Guardar,Speichern
+select_a_city,Şehir seçiniz *,Select a city,Scegliere una provincia,sélectionner une ville,Elegir una ciudad,Wähle Sie eine Stadt 
+select_a_country,Ülke seçiniz *,Select a country,Scegliere un paese,Choisissez un pays,Elegir un país,Wählen Sie ein Land
+settings,Ayarlar,Settings,Impostazioni,Paramètres,Configuraciones,Einstellungen
+sign_up,Üye Ol,Sign Up,Sign Up,S'inscrire,Registrarse,Anmeldung
+there_is_no_time_slot_available_to_continue_with_charging,Şarjı başlatmak istediğiniz zaman aralığı dolu.,There is no time slot available to continue with charging,Non è disponibile alcun periodo di tempo a continuare con la ricarica,La période pour laquelle vous souhaitez commencer la charge est pleine.,No hay un horario disponible para seguir con la carga.,"Kein Zeitfenster verfügbar, um mit dem Laden fortzufahren"
+your_charging_session_is_started_you_can_now_begin_charging,Şarj oturumunuz başlatıldı. Artık şarj etmeye başlayabilirsiniz.,"Your charging session is started, you can now begin charging.","La vostra sessione di ricarica è iniziata, ora potete iniziare a caricare.","Votre session de charge est lancée, vous pouvez maintenant commencer à charger.","Su sesión de carga ha iniciado, ya puede empezar a cargar","Ihre Ladesitzung ist gestartet, Sie können jetzt mit dem Laden beginnen."
+status,Durum,Status,Stato,statut,Estatus,Status
+stop_charging,Şarjı Bitir,Stop Charging,Interrompere la ricarica,Arrêter de charger,Terminar la carga,Ladevorgang beenden
+suggestion,Öneri,Suggestion,Suggerimento,Suggestion,Sugerencia,Empfehlung
+_24_7_call_center,7/24 Arayabileceğiniz Çağrı Merkezi:,24/7 Call Center:,24/7 Call Center:,Centre d'appels 24h/24 et 7j/7 :,Centro de Atención 24/7,24/7 Callcenter:
+are_you_sure_you_want_to_cancel_the_booking,Rezervasyonu iptal etmek istediğinize emin misiniz?,Are you sure you want to cancel the booking?,Siete sicuro di eliminare la prenotazione?,Êtes-vous sûr de vouloir annuler la réservation ?,¿Está segura de que quiere cancelar su reserva?,Möchten Sie die Reservierung wirklich stornieren?
+suspended,Hesap donduruldu,Suspended,Sospeso,Suspendu,Suspendido,gesperrt
+user_suspended_due_to_failure_in_payment,Ödeme gerçekleştirilemedi. Hesabınız askıya alınmıştır. Lütfen kartınızın limitini kontrol ediniz veya farklı bir kart ekleyiniz.,User suspended due to failure in payment.,"Non è stato possibile effettuare il pagamento.
+Il vostro conto è sospeso. Controllare il limite della vostra carta o usare un'altra carta",Utilisateur suspendu pour défaut de paiement.,El usuario se ha suspendido por fallo de pago.,Zahlung ist nicht erfolgt. Konto gesperrt. Bitte kontrollieren Sie Ihr Kartenlimit oder fügen Sie eine andere Karte hinzu.
+tc_link,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/TC_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/TC_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/TC_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/TC_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/TC_EN.html,https://aluminaevcstorageprod.blob.core.windows.net/staticpage/TC_EN.html
+title,Başlık,Title,Titolo,Titre,Título,Titel
+contact_us,Bize Ulaşın,Contact Us,Contattaci,Nous contacter,Contáctenos,Uns kontaktieren
+edit_payment_method,Kartı Düzenle,Edit Payment Method,Modificare carta,Modifier la carte,Modificar la tarjeta,Karte bearbeiten
+connector_warning,Soket Uyarısı,Connector warning,Avviso connettore,Avertissement de connecteur,Alerta de conector,Verbinder-Hinweis
+faqs,Sıkça Sorulan Sorular,FAQ's,FAQ,FAQ,Preguntas frecuentes,FAQs
+my_vehicles,Araçlarım,My Vehicles,Miei veicoli,Mes véhicules,Mis vehículos,Meine Fahrzeuge
+pricing,Ücretlendirme,Pricing,Prezzi,Prix,Tarificación,Preisgestaltung
+terms_and_conditions,Üyelik Sözleşmesi,Terms And Conditions,Termini e Condizioni,Termes et conditions,Términos y condiciones,Geschäftsbedingungen
+total_kwh_used,Toplam Kullanılan kWh,Total kWh Used,kWh totali utilizzati,Total kWh utilisé,kWh usado total,Summe verbrauchte kWh
+total_min_used,Toplam Kullanılan dakika,Total Min Used,Min totale utilizzato,Total min utilisé,Minutos usados,Summe verbrauchter Minuten
+please_try_again_later,Please try again later.,Please try again later.,Riprovare più tardi.,Veuillez réessayer plus tard.,Por favor inténtelo de nuevo más tarde.,Bitte versuchen Sie es später erneut.
+unable_to_delete_the_vehicle_please_try_again_later,Araç silinemiyor. Lütfen daha sonra tekrar deneyiniz.,Unable to delete the vehicle. Please try again later.,Impossibile eliminare il veicolo. Riprovare più tardi.,Impossible de supprimer le véhicule. Veuillez réessayer plus tard.,No se puede eliminar el vehículo. por favor inténtelo de nuevo más tarde.,Das Fahrzeug kann nicht gelöscht werden. Bitte versuchen Sie es später erneut.
+edit_vehicle,Aracı Güncelle,Edit Vehicle,Aggiornare veicolo,Mettre à jour le véhicule,Actualizar el vehículo,Fahrzeug aktualisieren
+user_deleted_by_operator,"Bu kullanıcı silinmiştir, lütfen operatör ile iletişime geçin.",User deleted by operator.,Utente eliminato dall'operatore.,Utilisateur supprimé par l'opérateur.,El usuario de ha eliminado por el operador.,Benutzer gelöscht. Kontaktieren Sie den Betreiber.
+your_status_has_been_changed_to_0,Durumunuz {0} olarak değiştirildi.,Your status has been changed to {0},Il vostro stato è stato cambiato in {0},Votre statut a été changé en {0},Su estatus se ha cambiado a {0},Ihr Status wurde in {0} geändert
+successfully_deleted_the_vehicle,Araç başarıyla silindi.,Successfully deleted the vehicle,Eliminato il veicolo con successo,Le véhicule a été supprimé avec succès,El vehículo se ha eliminado exitosamente,Fahrzeug erfolgreich gelöscht
+view_details,Detayları Görüntüle,View Details,Visualizzare dettagli,Voir les détails,Ver detalles,Details anzeigen
+this_station_is_in_a_limited_area,Bu istasyon erişimi kısıtlı bir alandadır.,This station is in a limited area.,Questa stazione si trova in un'area limitata.,Cette station est dans une zone limitée.,Esta estación está en un área limitado,Diese Station befindet sich in einem begrenzten Bereich.
+yes,Evet,Yes,sì,Oui,Sí,Ja
+you_cant_delete_default_card,Varsayılan kartı silemezsiniz,You can't delete Default card.,Non potete eliminare la carta predefinita.,Vous ne pouvez pas supprimer la carte par défaut.,No puede eliminar la tarjeta predeterminada.,Sie können die Standardkarte nicht löschen.
+your_details_has_been_saved,Detaylarınız kaydedildi.,Your details have been saved,I vostri dati sono stati salvati,Vos coordonnées ont été enregistrées,Sus detalles se han guardado.,Ihre Daten wurden gespeichert
+your_message_has_been_sent,Mesajınız gönderildi.,Your message has been sent,Il vostro messaggio è stato inviato,Votre message a été envoyé,Su mensaje se ha enviado.,Ihre Nachricht wurde gesendet
+the_address_where_the_app_name_card_will_be_sent,RFID Kartın Gönderileceği Adres,The address where the RFID card will be sent,L'indirizzo a cui verrete inviata la carta RFID,L'adresse où la carte RFID sera envoyée,La dirección a la cual la tarjeta RFID se enviará,"Die Adresse, an die die RFID-Karte gesendet wird"
+pricing_page_link,https://vestelstoragedev.blob.core.windows.net/staticpage/PaymentList.html,https://vestelstoragedev.blob.core.windows.net/staticpage/PaymentList.html,https://vestelstoragedev.blob.core.windows.net/staticpage/PaymentList.html,https://vestelstoragedev.blob.core.windows.net/staticpage/PaymentList.html,https://vestelstoragedev.blob.core.windows.net/staticpage/PaymentList.html,https://vestelstoragedev.blob.core.windows.net/staticpage/PaymentList.html
+today,Bugün,Today,Oggi,aujourd'hui,Hoy,heute
+please_check_your_internet_connection_and_try_again,İnternet bağlantınızı kontrol edip tekrar deneyin,Please check your internet connection and try again,Please check your internet connection and try again,Please check your internet connection and try again,Please check your internet connection and try again,Please check your internet connection and try again
+english,İngilizce,English,English,English,English,English
+network_connected	,Bağlantı sağlandı,Network connected,Network connected,Network connected,Network connected,Network connected
+search_charge_point	,Şarj istasyonu ara,Search charge point,Search charge point,Search charge point,Search charge point,Search charge point
+charging_stations_status,Şarj istasyon durumu,Charging Stations Status,Charging Stations Status,Charging Stations Status,Charging Stations Status,Charging Stations Status
+only_rapid_charging_stations,Sadece hızlı şarj istasyonları,Only rapid Charging Stations,Only rapid Charging Stations,Only rapid Charging Stations,Only rapid Charging Stations,Only rapid Charging Stations
+only_public_charging_stations,Sadece halka açık şarj istasyonları,Only Public Charging Stations,Only Public Charging Stations,Only Public Charging Stations,Only Public Charging Stations,Only Public Charging Stations
+only_available_charging_stations,Sadece uygun şarj istasyonları,Only Available Charging Stations,Only Available Charging Stations,Only Available Charging Stations,Only Available Charging Stations,Only Available Charging Stations
+socket_types,Soket tipleri,Socket Types,Socket Types,Socket Types,Socket Types,Socket Types
+filter	,Filtrele,Filter,Filter,Filter,Filter,Filter
+reset	,Sıfırla,Reset,Reset,Reset,Reset,Reset
+home_page,Anasayfa,Home Page,Home Page,Home Page,Home Page,Home Page
+apply_filter,Filtreyi uygula,Apply Filter,Apply Filter,Apply Filter,Apply Filter,Apply Filter
+dc_chademo,DC CHAdeMo,DC CHAdeMo,DC CHAdeMo,DC CHAdeMo,DC CHAdeMo,DC CHAdeMo
+ac_type_1	,AC Type - 2,AC Type - 2,AC Type - 2,AC Type - 2,AC Type - 2,AC Type - 2
+something_went_wrong	,Bir şeyler ters gitti,Something went wrong,Something went wrong,Something went wrong,Something went wrong,Something went wrong
+sign_out,Çıkış yap,Sign Out,Sign Out,Sign Out,Sign Out,Sign Out
+no_result_found,Sonuç bulunamadı,No Result Found,No Result Found,No Result Found,No Result Found,No Result Found
+s_currency,%s ₺,%s ₺,%s ₺,%s ₺,%s ₺,%s ₺
+s_currency_letter,%s TRY,%s TRY,%s TRY,%s TRY,%s TRY,%s TRY
+up_to_s,%s'e kadar,Up to %s,Up to %s,Up to %s,Up to %s,Up to %s
+between_s,%s - %s arası,Between %s,Between %s,Between %s,Between %s,Between %s
+above_s,%s'den fazla,Above %s,Above %s,Above %s,Above %s,Above %s
+phone_number_format_tr,(___) ___ __ __,(___) ___ __ __,(___) ___ __ __,(___) ___ __ __,(___) ___ __ __,(___) ___ __ __
+public_label,Galka açık,Public,Public,Public,Public,Public
+dc_ccs_available,DC CCS-Available,DC CCS-Available,DC CCS-Available,DC CCS-Available,DC CCS-Available,DC CCS-Available
+dc_cha_demo_available,DC CHAdeMO-Available,DC CHAdeMO-Available,DC CHAdeMO-Available,DC CHAdeMO-Available,DC CHAdeMO-Available,DC CHAdeMO-Available
+ac_type_two_available,AC Type-2-Available,AC Type-2-Available,AC Type-2-Available,AC Type-2-Available,AC Type-2-Available,AC Type-2-Available
+ac_type_two_plug_available,AC Type-2 Plug-Available,AC Type-2 Plug-Available,AC Type-2 Plug-Available,AC Type-2 Plug-Available,AC Type-2 Plug-Available,AC Type-2 Plug-Available
+forgot_password,Şifremi unuttum,Forgot password,Forgot password,Forgot password,Forgot password,Forgot password
+please_enter_your_mobile_phone_number,Lütfen telefon numaranızı girin,Please enter your mobile phone number.,Please enter your mobile phone number.,Please enter your mobile phone number.,Please enter your mobile phone number.,Please enter your mobile phone number.
+you_will_sign_in_to_your_app_name_account_with_your_phone_number,ZES hesabınıza telefon numaranızla giriş yapın,You will sign in to your ZES account with your phone number.,You will sign in to your ZES account with your phone number.,You will sign in to your ZES account with your phone number.,You will sign in to your ZES account with your phone number.,You will sign in to your ZES account with your phone number.
+i_accept_the_terms_and_conditions	,Koşullar ve Şartlar sözleşmesini kabul ediyorum,I accept the terms and conditions.,I accept the terms and conditions.,I accept the terms and conditions.,I accept the terms and conditions.,I accept the terms and conditions.
+to_continue_please_read_and_accept_the_terms_and_conditions,Devam etmek için koşullar ve şartlar sözleşmesini okuyup kabul edin.,"To continue, please read and accept the terms and conditions.","To continue, please read and accept the terms and conditions.","To continue, please read and accept the terms and conditions.","To continue, please read and accept the terms and conditions.","To continue, please read and accept the terms and conditions."
+please_enter_the_sms_code	,Lütfen SMS kodunu girin,Please enter the SMS code.,Please enter the SMS code.,Please enter the SMS code.,Please enter the SMS code.,Please enter the SMS code.
+we_sent_you_an_sms_code_for_reset_your_password	,Şifrenizi sıfırlamanız için telefonunuza SMS gönderilmiştir.,We sent you an SMS code for reset your password.,We sent you an SMS code for reset your password.,We sent you an SMS code for reset your password.,We sent you an SMS code for reset your password.,We sent you an SMS code for reset your password.
+create_a_password,Şifre oluştur.,Create a password.,Create a password.,Create a password.,Create a password.,Create a password.
+password_must_contain_8_16_characters_uppercase_letters_lowercase_letters_and_numbers	,"Şifreniz 8-16 karakter olmalı ve büyük harf, küçük harf ve rakam içermelidir.","Password must contain 8-16 characters; uppercase letters, lowercase letters and numbers.","Password must contain 8-16 characters; uppercase letters, lowercase letters and numbers.","Password must contain 8-16 characters; uppercase letters, lowercase letters and numbers.","Password must contain 8-16 characters; uppercase letters, lowercase letters and numbers.","Password must contain 8-16 characters; uppercase letters, lowercase letters and numbers."
+year,Yıl,Year,Year,Year,Year,Year
+month,Ay,Month,Month,Month,Month,Month
+card_name,Kart ismi,Card name,Card name,Card name,Card name,Card name
+cardholder_name,Kart sahibinin adı,Cardholder name,Cardholder name,Cardholder name,Cardholder name,Cardholder name
+turkish_id_number,TC Kimlik No*,Turkish Id Number*,Turkish Id Number*,Turkish Id Number*,Turkish Id Number*,Turkish Id Number*
+i_am_not_turkish_citizen,TC vatandaşı değilim,I am not Turkish citizen.,I am not Turkish citizen.,I am not Turkish citizen.,I am not Turkish citizen.,I am not Turkish citizen.
+province,Şehir,Province,Province,Province,Province,Province
+you_will_reset_your_password_with_SMS_code_we_sent_your_phone_number,Şifrenizi telefonunuza gelen kod ile değiştirebilirsiniz,You will reset your password with SMS code we sent your phone number.,You will reset your password with SMS code we sent your phone number.,You will reset your password with SMS code we sent your phone number.,You will reset your password with SMS code we sent your phone number.,You will reset your password with SMS code we sent your phone number.
+country_code_turkey,90,90,90,90,90,90
+timer_format,%1$d saniye,%1$d seconds,%1$d seconds,%1$d seconds,%1$d seconds,%1$d seconds
+country_code_format,+%1$s,+%1$s,+%1$s,+%1$s,+%1$s,+%1$s
+trade_name,Firma Adı*,Trade Name *,Trade Name *,Trade Name *,Trade Name *,Trade Name *
+add_new_payment_method	,Yeni Kart Ekle,Add New Payment Method,Add New Payment Method,Add New Payment Method,Add New Payment Method,Add New Payment Method
+expiry_date,Son kullanma tarihi,Expiry Date,Expiry Date,Expiry Date,Expiry Date,Expiry Date
+thank_you_for_choosing_us__if_you_enjoy_using_zes_would_you_rate_it,Bizi tercih ettiğiniz için teşekkürler. Uygulamamızı beğeniyorsanız puan verir misiniz?,"Thank you for choosing us.\n If you enjoy using ZES,\n would you rate it ?","Thank you for choosing us.\n If you enjoy using ZES,\n would you rate it ?","Thank you for choosing us.\n If you enjoy using ZES,\n would you rate it ?","Thank you for choosing us.\n If you enjoy using ZES,\n would you rate it ?","Thank you for choosing us.\n If you enjoy using ZES,\n would you rate it ?"
+district	,İlçe,District *,District *,District *,District *,District *
+corporate,Kurumsal,Corporate,Corporate,Corporate,Corporate,Corporate
+individual,Bireysel,Individual,Individual,Individual,Individual,Individual
+selling_agreement,Satış sözleşmesi,Selling Agreement,Selling Agreement,Selling Agreement,Selling Agreement,Selling Agreement
+enter_your_code_in	,Kodunuzu girin,Enter your code in,Enter your code in,Enter your code in,Enter your code in,Enter your code in
+app_name_card_user_address_format,%1$s %2$s %3$s %4$s,%1$s %2$s %3$s %4$s,%1$s %2$s %3$s %4$s,%1$s %2$s %3$s %4$s,%1$s %2$s %3$s %4$s,%1$s %2$s %3$s %4$s
+turkish,Türkçe,Türkçe,Türkçe,Türkçe,Türkçe,Türkçe
+hebrew,עִברִית,עִברִית,עִברִית,עִברִית,עִברִית,עִברִית
+italian,Italiano,Italiano,Italiano,Italiano,Italiano,Italiano
+bulgarian,български,български,български,български,български,български
+_01,1,1,1,1,1,1
+_02,2,2,2,2,2,2
+_03,3,3,3,3,3,3
+_12,12,12,12,12,12,12
+_11,11,11,11,11,11,11
+_10,10,10,10,10,10,10
+_09,9,9,9,9,9,9
+_08,8,8,8,8,8,8
+_07,7,7,7,7,7,7
+_06,6,6,6,6,6,6
+_05,5,5,5,5,5,5
+_04,4,4,4,4,4,4
+dc_ccs_offline,DC CCS-Offline,DC CCS-Offline,DC CCS-Offline,DC CCS-Offline,DC CCS-Offline,DC CCS-Offline
+dc_cha_demo_offline,DC CHAdeMO-Offline,DC CHAdeMO-Offline,DC CHAdeMO-Offline,DC CHAdeMO-Offline,DC CHAdeMO-Offline,DC CHAdeMO-Offline
+ac_type_two_offline,AC Type-2-Offline,AC Type-2-Offline,AC Type-2-Offline,AC Type-2-Offline,AC Type-2-Offline,AC Type-2-Offline
+ac_type_two_plug_offline,AC Type-2 Plug-Offline,AC Type-2 Plug-Offline,AC Type-2 Plug-Offline,AC Type-2 Plug-Offline,AC Type-2 Plug-Offline,AC Type-2 Plug-Offline
+km,Km,Km,Km,Km,Km,Km
+enable_location,Konum bilgisini açın,Enable Location,Enable Location,Enable Location,Enable Location,Enable Location
+location_settings,Konum ayarları,Location Settings,Location Settings,Location Settings,Location Settings,Location Settings
+already_booked,Already Booked,Already Booked,Already Booked,Already Booked,Already Booked,Already Booked
+your_booking_has_successfully_completed,Şarj işleminiz başarıyla tamamlandı,Your Booking has successfully completed,Your Booking has successfully completed,Your Booking has successfully completed,Your Booking has successfully completed,Your Booking has successfully completed
+turkey_code,90,90,90,90,90,90
+guest_users_will_benefit_from_our_s_sockets_for_s,Misafir kullanıcılar %1$s soketlerimizi %2$s kullanabilirler,Guest users will benefit from our %1$s sockets for %2$s.,Guest users will benefit from our %1$s sockets for %2$s.,Guest users will benefit from our %1$s sockets for %2$s.,Guest users will benefit from our %1$s sockets for %2$s.,Guest users will benefit from our %1$s sockets for %2$s.
+guest_users_will_benefit_from_our_s_sockets_for_s,,,,,,
+if_you_do_not_use_your_reservations_a_blockage_fee_will_be_charged,,,,,,
+if_you_do_not_use_your_reservations_a_blockage_fee_will_be_charged,,,,,,
+are_you_sure_you_want_to_sign_out	,Çıkış yapmak istediğinize emin misiniz?,Are you sure you want to sign out?,Are you sure you want to sign out?,Are you sure you want to sign out?,Are you sure you want to sign out?,Are you sure you want to sign out?
+please_select_subject	,Lütfen konu seçin,Please select subject,Please select subject,Please select subject,Please select subject,Please select subject
+s_min,%s dk,%s min,%s min,%s min,%s min,%s min
+no_show,,No Show,No Show,No Show,No Show,No Show
+average_power_price_unit,Ortalama ,Average Power Price/Unit,Average Power Price/Unit,Average Power Price/Unit,Average Power Price/Unit,Average Power Price/Unit
+fixed_service_fee,,Fixed service fee,Fixed service fee,Fixed service fee,Fixed service fee,Fixed service fee
+per_service,,/service,/service,/service,/service,/service
+electric_fee,,Electric fee,Electric fee,Electric fee,Electric fee,Electric fee
+per_kwh,,/kWh,/kWh,/kWh,/kWh,/kWh
+minimum_fee,,Minimum fee,Minimum fee,Minimum fee,Minimum fee,Minimum fee
+close,,Close,Close,Close,Close,Close
+upcoming_bookings,,Upcoming Bookings,Upcoming Bookings,Upcoming Bookings,Upcoming Bookings,Upcoming Bookings
+mandatory_to_indicate_the_cardholder_name,,Mandatory to indicate the cardholder name.,Mandatory to indicate the cardholder name.,Mandatory to indicate the cardholder name.,Mandatory to indicate the cardholder name.,Mandatory to indicate the cardholder name.
+invalid_expiry_date,,Invalid Expiry date,Invalid Expiry date,Invalid Expiry date,Invalid Expiry date,Invalid Expiry date
+to_continue_you_must_read_and_accept_the_online_sales_agreement,,"To continue, you must read and accept the Online Sales Agreement.","To continue, you must read and accept the Online Sales Agreement.","To continue, you must read and accept the Online Sales Agreement.","To continue, you must read and accept the Online Sales Agreement.","To continue, you must read and accept the Online Sales Agreement."
+install_maps_application,,Please install a maps application,Please install a maps application,Please install a maps application,Please install a maps application,Please install a maps application
+bookings_list_date_format,,dd/MM/yyyy HH:mm,dd/MM/yyyy HH:mm,dd/MM/yyyy HH:mm,dd/MM/yyyy HH:mm,dd/MM/yyyy HH:mm
+qr_booking_slot_confirmation_format,,dd MMM yyyy hh:mm a,dd MMM yyyy hh:mm a,dd MMM yyyy hh:mm a,dd MMM yyyy hh:mm a,dd MMM yyyy hh:mm a
+please_enter_a_card_name,,Please enter a card name.,Please enter a card name.,Please enter a card name.,Please enter a card name.,Please enter a card name.
+please_sign_in_to_access_your_recent,,Please sign in to access your recent,Please sign in to access your recent,Please sign in to access your recent,Please sign in to access your recent,Please sign in to access your recent
+please_sign_in_to_access_this_feature,,Please sign in to access this feature,Please sign in to access this feature,Please sign in to access this feature,Please sign in to access this feature,Please sign in to access this feature
+your_booking_is_confirmed_from_s_to_s,,Your booking is confirmed from %1$s to %2$s,Your booking is confirmed from %1$s to %2$s,Your booking is confirmed from %1$s to %2$s,Your booking is confirmed from %1$s to %2$s,Your booking is confirmed from %1$s to %2$s
+star,,*,*,*,*,*
+force_update_url,,https://us-central1-zorlu-zes-464d3.cloudfunctions.net/forceUpdate,https://us-central1-zorlu-zes-464d3.cloudfunctions.net/forceUpdate,https://us-central1-zorlu-zes-464d3.cloudfunctions.net/forceUpdate,https://us-central1-zorlu-zes-464d3.cloudfunctions.net/forceUpdate,https://us-central1-zorlu-zes-464d3.cloudfunctions.net/forceUpdate
+thank_you_for_choosing_us_have_a_good_journey,,Thank you for choosing us. Have a good journey,Thank you for choosing us. Have a good journey,Thank you for choosing us. Have a good journey,Thank you for choosing us. Have a good journey,Thank you for choosing us. Have a good journey
+account_not_created_please_try_again,,Account not created / Please try again.,Account not created / Please try again.,Account not created / Please try again.,Account not created / Please try again.,Account not created / Please try again.
+success,,Success,Success,Success,Success,Success
+amex_can_use_only_mr	,,Amex Can Use Only MR,Amex Can Use Only MR,Amex Can Use Only MR,Amex Can Use Only MR,Amex Can Use Only MR
+please_try_again_after_a_while,,Please try again after a while,Please try again after a while,Please try again after a while,Please try again after a while,Please try again after a while
+average_power,,Average Power,Average Power,Average Power,Average Power,Average Power
+payment_failed_your_credit_card_has_been_blocked_by_your_bank_please_contact_your_bank,,Payment failed.Your credit card has been blocked by your bank. Please contact your bank.,Payment failed.Your credit card has been blocked by your bank. Please contact your bank.,Payment failed.Your credit card has been blocked by your bank. Please contact your bank.,Payment failed.Your credit card has been blocked by your bank. Please contact your bank.,Payment failed.Your credit card has been blocked by your bank. Please contact your bank.
+your_booking_has_cancelled,,Your booking has been cancelled,Your booking has been cancelled,Your booking has been cancelled,Your booking has been cancelled,Your booking has been cancelled
+your_reservation_time_has_arrived,,Your reservation time has arrived,Your reservation time has arrived,Your reservation time has arrived,Your reservation time has arrived,Your reservation time has arrived
+payment_failed_your_credit_card_is_not_permitted_please_contact_your_bank,,Payment failed.Your credit card is not permitted. Please contact your bank.,Payment failed.Your credit card is not permitted. Please contact your bank.,Payment failed.Your credit card is not permitted. Please contact your bank.,Payment failed.Your credit card is not permitted. Please contact your bank.,Payment failed.Your credit card is not permitted. Please contact your bank.
+charge_start_date,,Charge Start Date,Charge Start Date,Charge Start Date,Charge Start Date,Charge Start Date
+charge_end_date,,Charge End Date,Charge End Date,Charge End Date,Charge End Date,Charge End Date
+if_you_do_not_unplug_your_vehicle_until_the_charge_end_time_penalty_will_be,,"If you do not unplug your vehicle until the charge end time, penalty will be applied.","If you do not unplug your vehicle until the charge end time, penalty will be applied.","If you do not unplug your vehicle until the charge end time, penalty will be applied.","If you do not unplug your vehicle until the charge end time, penalty will be applied.","If you do not unplug your vehicle until the charge end time, penalty will be applied."
+payment_failed_your_bank_could_not_be_contacted_please_try_again_later,,Payment failed.Your bank could not be contacted. Please try again later.,Payment failed.Your bank could not be contacted. Please try again later.,Payment failed.Your bank could not be contacted. Please try again later.,Payment failed.Your bank could not be contacted. Please try again later.,Payment failed.Your bank could not be contacted. Please try again later.
+all_of_your_pending_payments_have_been_successfully_completed_your_status_has_been_changed_to_active,,All of your pending payments have been successfully completed. Your status has been changed to Active.,All of your pending payments have been successfully completed. Your status has been changed to Active.,All of your pending payments have been successfully completed. Your status has been changed to Active.,All of your pending payments have been successfully completed. Your status has been changed to Active.,All of your pending payments have been successfully completed. Your status has been changed to Active.
+bank_not_found_make_sure_you_have_entered_your_payment_details_correctly,,Bank not found. Make sure you have entered your payment details correctly.,Bank not found. Make sure you have entered your payment details correctly.,Bank not found. Make sure you have entered your payment details correctly.,Bank not found. Make sure you have entered your payment details correctly.,Bank not found. Make sure you have entered your payment details correctly.
+charge_and_booking_information,Charge and Booking Information,Charge and Booking Information,Charge and Booking Information,Charge and Booking Information,Charge and Booking Information,Charge and Booking Information
+charging_not_started_your_booking_was_at_0,Charging not started. Your booking was at {0},Charging not started. Your booking was at {0},Charging not started. Your booking was at {0},Charging not started. Your booking was at {0},Charging not started. Your booking was at {0},Charging not started. Your booking was at {0}
+citizenship_id_number,Citizenship ID number *,Citizenship ID number *,Citizenship ID number *,Citizenship ID number *,Citizenship ID number *,Citizenship ID number *
+complaint,Complaint,Complaint,Complaint,Complaint,Complaint,Complaint
+confirm_password,Confirm Password,Confirm Password,Confirm Password,Confirm Password,Confirm Password,Confirm Password
+connector_type,Connector Type,Connector Type,Connector Type,Connector Type,Connector Type,Connector Type
+dc_ccs,DC CCS,DC CCS,DC CCS,DC CCS,DC CCS,DC CCS
+forget_your_password,Forgot Your Password,Forgot Your Password,Forgot Your Password,Forgot Your Password,Forgot Your Password,Forgot Your Password
+house_apartment,House/Apartment*,House/Apartment*,House/Apartment*,House/Apartment*,House/Apartment*,House/Apartment*
+incorrect_phone_number_or_password,Incorrect Phone Number or Password,Incorrect Phone Number or Password,Incorrect Phone Number or Password,Incorrect Phone Number or Password,Incorrect Phone Number or Password,Incorrect Phone Number or Password
+info,Info,Info,Info,Info,Info,Info
+invalid_cvv,Invalid CVV,Invalid CVV,Invalid CVV,Invalid CVV,Invalid CVV,Invalid CVV
+invalid_e_mail_make_sure_that_you_entered_your_e_mail_address_correctly,Invalid e-mail. Make sure that you entered your e-mail address correctly.,Invalid e-mail. Make sure that you entered your e-mail address correctly.,Invalid e-mail. Make sure that you entered your e-mail address correctly.,Invalid e-mail. Make sure that you entered your e-mail address correctly.,Invalid e-mail. Make sure that you entered your e-mail address correctly.,Invalid e-mail. Make sure that you entered your e-mail address correctly.
+invalid_operation,Invalid Operation,Invalid Operation,Invalid Operation,Invalid Operation,Invalid Operation,Invalid Operation
+invalid_phone_number,Invalid phone number,Invalid phone number,Invalid phone number,Invalid phone number,Invalid phone number,Invalid phone number
+invalid_pin_make_sure_that_you_entered_pin_correctly,Invalid PIN Make sure that you entered Pin correctly.,Invalid PIN Make sure that you entered Pin correctly.,Invalid PIN Make sure that you entered Pin correctly.,Invalid PIN Make sure that you entered Pin correctly.,Invalid PIN Make sure that you entered Pin correctly.,Invalid PIN Make sure that you entered Pin correctly.
+invoice_information,Invoice Information,Invoice Information,Invoice Information,Invoice Information,Invoice Information,Invoice Information
+iyzico_payment_error_info,Iyzico(Payment) Error Info,Iyzico(Payment) Error Info,Iyzico(Payment) Error Info,Iyzico(Payment) Error Info,Iyzico(Payment) Error Info,Iyzico(Payment) Error Info
+lastName,Last Name *,Last Name *,Last Name *,Last Name *,Last Name *,Last Name *
+make_sure_that_you_entered_your_phone_number_correctly,Make sure that you entered your phone number correctly.,Make sure that you entered your phone number correctly.,Make sure that you entered your phone number correctly.,Make sure that you entered your phone number correctly.,Make sure that you entered your phone number correctly.,Make sure that you entered your phone number correctly.
+my_booking_details,My Booking Details,My Booking Details,My Booking Details,My Booking Details,My Booking Details,My Booking Details
+next_upcoming_booking_is_at_0,Next upcoming booking is at {0},Next upcoming booking is at {0},Next upcoming booking is at {0},Next upcoming booking is at {0},Next upcoming booking is at {0},Next upcoming booking is at {0}
+no_account_found_for_this_phone_number_or_the_password_is_incorrect_make_sure_your_information_is_correct_and_try_again,No account found for this phone number or the password is incorrect. Make sure your information is correct and try again.,No account found for this phone number or the password is incorrect. Make sure your information is correct and try again.,No account found for this phone number or the password is incorrect. Make sure your information is correct and try again.,No account found for this phone number or the password is incorrect. Make sure your information is correct and try again.,No account found for this phone number or the password is incorrect. Make sure your information is correct and try again.,No account found for this phone number or the password is incorrect. Make sure your information is correct and try again.
+not_permitted_to_foreign_card,Not Permitted To Foreign Card,Not Permitted To Foreign Card,Not Permitted To Foreign Card,Not Permitted To Foreign Card,Not Permitted To Foreign Card,Not Permitted To Foreign Card
+not_permitted_to_installment,Not Permitted To Installment,Not Permitted To Installment,Not Permitted To Installment,Not Permitted To Installment,Not Permitted To Installment,Not Permitted To Installment
+operation_failed,Operation failed,Operation failed,Operation failed,Operation failed,Operation failed,Operation failed
+payment_completed_successfully,Payment completed successfully.,Payment completed successfully.,Payment completed successfully.,Payment completed successfully.,Payment completed successfully.,Payment completed successfully.
+payment_declined,Payment declined.,Payment declined.,Payment declined.,Payment declined.,Payment declined.,Payment declined.
+payment_declined_please_contact_your_bank,Payment declined. Please contact your bank.,Payment declined. Please contact your bank.,Payment declined. Please contact your bank.,Payment declined. Please contact your bank.,Payment declined. Please contact your bank.,Payment declined. Please contact your bank.
+payment_failed,Payment failed.,Payment failed.,Payment failed.,Payment failed.,Payment failed.,Payment failed.
+payment_failed_allowable_number_of_pin_tries_exceeded,Payment Failed.Allowable number of pin tries exceeded.,Payment Failed.Allowable number of pin tries exceeded.,Payment Failed.Allowable number of pin tries exceeded.,Payment Failed.Allowable number of pin tries exceeded.,Payment Failed.Allowable number of pin tries exceeded.,Payment Failed.Allowable number of pin tries exceeded.
+payment_failed_bin_not_found,Payment failed. BIN not found.,Payment failed. BIN not found.,Payment failed. BIN not found.,Payment failed. BIN not found.,Payment failed. BIN not found.,Payment failed. BIN not found.
+payment_failed_debit_card_installment_is_not_allowed,Payment failed. Debit card installment is not allowed.,Payment failed. Debit card installment is not allowed.,Payment failed. Debit card installment is not allowed.,Payment failed. Debit card installment is not allowed.,Payment failed. Debit card installment is not allowed.,Payment failed. Debit card installment is not allowed.
+payment_failed_insufficient_award_in_your_credit_card,Payment failed. Insufficient award in your credit card.,Payment failed. Insufficient award in your credit card.,Payment failed. Insufficient award in your credit card.,Payment failed. Insufficient award in your credit card.,Payment failed. Insufficient award in your credit card.,Payment failed. Insufficient award in your credit card.
+payment_failed_invalid_cavv,Payment failed.Invalid CAVV,Payment failed.Invalid CAVV,Payment failed.Invalid CAVV,Payment failed.Invalid CAVV,Payment failed.Invalid CAVV,Payment failed.Invalid CAVV
+payment_failed_invalid_eci,Payment failed. Invalid ECI,Payment failed. Invalid ECI,Payment failed. Invalid ECI,Payment failed. Invalid ECI,Payment failed. Invalid ECI,Payment failed. Invalid ECI
+payment_failed_make_sure_that_you_have_entered_your_cards_cvc_number_correctly,Payment failed. Make sure that you have entered your card\'s CVC number correctly.,Payment failed. Make sure that you have entered your card\'s CVC number correctly.,Payment failed. Make sure that you have entered your card\'s CVC number correctly.,Payment failed. Make sure that you have entered your card\'s CVC number correctly.,Payment failed. Make sure that you have entered your card\'s CVC number correctly.,Payment failed. Make sure that you have entered your card\'s CVC number correctly.
+payment_failed_make_sure_that_you_have_entered_your_credit_card_number_correctly,Payment failed.Make sure that you have entered your credit card number correctly.,Payment failed.Make sure that you have entered your credit card number correctly.,Payment failed.Make sure that you have entered your credit card number correctly.,Payment failed.Make sure that you have entered your credit card number correctly.,Payment failed.Make sure that you have entered your credit card number correctly.,Payment failed.Make sure that you have entered your credit card number correctly.
+payment_failed_make_sure_that_you_have_entered_your_credit_cards_expiry_month_year_correctly,Payment failed. Make sure that you have entered your credit card\'s expiry month/year correctly.,Payment failed. Make sure that you have entered your credit card\'s expiry month/year correctly.,Payment failed. Make sure that you have entered your credit card\'s expiry month/year correctly.,Payment failed. Make sure that you have entered your credit card\'s expiry month/year correctly.,Payment failed. Make sure that you have entered your credit card\'s expiry month/year correctly.,Payment failed. Make sure that you have entered your credit card\'s expiry month/year correctly.
+payment_failed_make_sure_that_you_have_used_a_valid_card_type,Payment failed.Make sure that you have used a valid card type.,Payment failed.Make sure that you have used a valid card type.,Payment failed.Make sure that you have used a valid card type.,Payment failed.Make sure that you have used a valid card type.,Payment failed.Make sure that you have used a valid card type.,Payment failed.Make sure that you have used a valid card type.
+payment_failed_maximum_cvc2_attempt_has_been_reached_please_try_again_later,Payment failed.Maximum CVC2  attempt has been reached. Please try again later.,Payment failed.Maximum CVC2  attempt has been reached. Please try again later.,Payment failed.Maximum CVC2  attempt has been reached. Please try again later.,Payment failed.Maximum CVC2  attempt has been reached. Please try again later.,Payment failed.Maximum CVC2  attempt has been reached. Please try again later.,Payment failed.Maximum CVC2  attempt has been reached. Please try again later.
+payment_failed_operation_is_not_approved_please_contact_your_bank,Payment failed.Operation is not approved. Please contact  your bank.,Payment failed.Operation is not approved. Please contact  your bank.,Payment failed.Operation is not approved. Please contact  your bank.,Payment failed.Operation is not approved. Please contact  your bank.,Payment failed.Operation is not approved. Please contact  your bank.,Payment failed.Operation is not approved. Please contact  your bank.
+payment_failed_requires_day_end,Payment failed. Requires Day End,Payment failed. Requires Day End,Payment failed. Requires Day End,Payment failed. Requires Day End,Payment failed. Requires Day End,Payment failed. Requires Day End
+payment_failed_your_account_is_suspended,Payment failed. Your account is suspended,Payment failed. Your account is suspended,Payment failed. Your account is suspended,Payment failed. Your account is suspended,Payment failed. Your account is suspended,Payment failed. Your account is suspended
+payment_failed_your_account_suspended,Payment failed. Your account suspended.,Payment failed. Your account suspended.,Payment failed. Your account suspended.,Payment failed. Your account suspended.,Payment failed. Your account suspended.,Payment failed. Your account suspended.
+payment_failed_your_card_has_some_restrictions_please_continue_with_another_credit_card_or_contact_your_bank,"Payment failed. Your card has some restrictions. Please continue with another credit card, or contact your bank.","Payment failed. Your card has some restrictions. Please continue with another credit card, or contact your bank.","Payment failed. Your card has some restrictions. Please continue with another credit card, or contact your bank.","Payment failed. Your card has some restrictions. Please continue with another credit card, or contact your bank.","Payment failed. Your card has some restrictions. Please continue with another credit card, or contact your bank.","Payment failed. Your card has some restrictions. Please continue with another credit card, or contact your bank."
+payment_failed_your_card_is_not_allowed_to_perform_e_commerce_transactions_please_contact_your_bank,Payment failed. Your card is not allowed to perform e-commerce transactions. Please contact your bank.,Payment failed. Your card is not allowed to perform e-commerce transactions. Please contact your bank.,Payment failed. Your card is not allowed to perform e-commerce transactions. Please contact your bank.,Payment failed. Your card is not allowed to perform e-commerce transactions. Please contact your bank.,Payment failed. Your card is not allowed to perform e-commerce transactions. Please contact your bank.,Payment failed. Your card is not allowed to perform e-commerce transactions. Please contact your bank.
+payment_failed_your_cards_expiry_date_has_been_exceeded_please_continue_with_another_credit_card,Payment failed. Your card\'s expiry date has been exceeded. Please continue with another credit card.,Payment failed. Your card\'s expiry date has been exceeded. Please continue with another credit card.,Payment failed. Your card\'s expiry date has been exceeded. Please continue with another credit card.,Payment failed. Your card\'s expiry date has been exceeded. Please continue with another credit card.,Payment failed. Your card\'s expiry date has been exceeded. Please continue with another credit card.,Payment failed. Your card\'s expiry date has been exceeded. Please continue with another credit card.
+payment_failed_your_cards_withdrawal_amount_limit_has_been_exceeded_please_continue_with_another_card,Payment failed. Your card\'s withdrawal amount limit has been exceeded. Please continue with another card.,Payment failed. Your card\'s withdrawal amount limit has been exceeded. Please continue with another card.,Payment failed. Your card\'s withdrawal amount limit has been exceeded. Please continue with another card.,Payment failed. Your card\'s withdrawal amount limit has been exceeded. Please continue with another card.,Payment failed. Your card\'s withdrawal amount limit has been exceeded. Please continue with another card.,Payment failed. Your card\'s withdrawal amount limit has been exceeded. Please continue with another card.
+payment_failed_your_credit_card_account_has_insufficient_funds,Payment failed.Your credit card account has insufficient funds.,Payment failed.Your credit card account has insufficient funds.,Payment failed.Your credit card account has insufficient funds.,Payment failed.Your credit card account has insufficient funds.,Payment failed.Your credit card account has insufficient funds.,Payment failed.Your credit card account has insufficient funds.
+payment_failed_your_credit_card_is_not_registered_for_3d_secure_please_contact_your_bank,Payment failed.Your credit card is not registered for 3D Secure. Please contact your bank.,Payment failed.Your credit card is not registered for 3D Secure. Please contact your bank.,Payment failed.Your credit card is not registered for 3D Secure. Please contact your bank.,Payment failed.Your credit card is not registered for 3D Secure. Please contact your bank.,Payment failed.Your credit card is not registered for 3D Secure. Please contact your bank.,Payment failed.Your credit card is not registered for 3D Secure. Please contact your bank.
+payment_failed_your_payment_request_is_blocked_by_your_bank_please_contact_your_bank,Payment failed.Your payment request is blocked by your bank. Please contact your bank.,Payment failed.Your payment request is blocked by your bank. Please contact your bank.,Payment failed.Your payment request is blocked by your bank. Please contact your bank.,Payment failed.Your payment request is blocked by your bank. Please contact your bank.,Payment failed.Your payment request is blocked by your bank. Please contact your bank.,Payment failed.Your payment request is blocked by your bank. Please contact your bank.
+payment_failed_your_payment_session_has_timed_out_please_try_again,Payment failed. Your payment session has timed out. Please try again.,Payment failed. Your payment session has timed out. Please try again.,Payment failed. Your payment session has timed out. Please try again.,Payment failed. Your payment session has timed out. Please try again.,Payment failed. Your payment session has timed out. Please try again.,Payment failed. Your payment session has timed out. Please try again.
+phone_number,Phone Number,Phone Number,Phone Number,Phone Number,Phone Number,Phone Number
+please_check_your_internet_or_try_again_later,Please check your internet or try again later,Please check your internet or try again later,Please check your internet or try again later,Please check your internet or try again later,Please check your internet or try again later,Please check your internet or try again later
+please_enter_all_required_fields,Please enter all required fields,Please enter all required fields,Please enter all required fields,Please enter all required fields,Please enter all required fields,Please enter all required fields
+please_make_sure_that_you_enter_the_correct_code,Please make sure that you enter the correct code.,Please make sure that you enter the correct code.,Please make sure that you enter the correct code.,Please make sure that you enter the correct code.,Please make sure that you enter the correct code.,Please make sure that you enter the correct code.
+please_make_sure_your_password_contains_the_requirements_above,Please make sure your password contains the requirements above.,Please make sure your password contains the requirements above.,Please make sure your password contains the requirements above.,Please make sure your password contains the requirements above.,Please make sure your password contains the requirements above.,Please make sure your password contains the requirements above.
+please_sign_to_access_your_booking_list,Please sign in to access your booking list,Please sign in to access your booking list,Please sign in to access your booking list,Please sign in to access your booking list,Please sign in to access your booking list,Please sign in to access your booking list
+please_try_again,Please try again.,Please try again.,Please try again.,Please try again.,Please try again.,Please try again.
+price_unit,Price/Unit,Price/Unit,Price/Unit,Price/Unit,Price/Unit,Price/Unit
+rate_app,Rate App,Rate App,Rate App,Rate App,Rate App,Rate App
+rate_it_now,Rate it Now,Rate it Now,Rate it Now,Rate it Now,Rate it Now,Rate it Now
+remind_me_later,Remind me later,Remind me later,Remind me later,Remind me later,Remind me later,Remind me later
+resend_code,Resend Code,Resend Code,Resend Code,Resend Code,Resend Code,Resend Code
+scan,Scan,Scan,Scan,Scan,Scan,Scan
+search_country,Search Country,Search Country,Search Country,Search Country,Search Country,Search Country
+send_sms_code,Send SMS Code,Send SMS Code,Send SMS Code,Send SMS Code,Send SMS Code,Send SMS Code
+slash_min,/min,/min,/min,/min,/min,/min
+sms_code,SMS Code,SMS Code,SMS Code,SMS Code,SMS Code,SMS Code
+step_1_3,Step 1/3,Step 1/3,Step 1/3,Step 1/3,Step 1/3,Step 1/3
+step_1_5,Step 1/5,Step 1/5,Step 1/5,Step 1/5,Step 1/5,Step 1/5
+step_2_3,Step 2/3,Step 2/3,Step 2/3,Step 2/3,Step 2/3,Step 2/3
+step_2_5,Step 2/5,Step 2/5,Step 2/5,Step 2/5,Step 2/5,Step 2/5
+step_3_3,Step 3/3,Step 3/3,Step 3/3,Step 3/3,Step 3/3,Step 3/3
+step_3_5,Step 3/5,Step 3/5,Step 3/5,Step 3/5,Step 3/5,Step 3/5
+step_4_5,Step 4/5,Step 4/5,Step 4/5,Step 4/5,Step 4/5,Step 4/5
+stop_charging_before_0_to_avoid_penalties,Stop charging before {0} to avoid penalties,Stop charging before {0} to avoid penalties,Stop charging before {0} to avoid penalties,Stop charging before {0} to avoid penalties,Stop charging before {0} to avoid penalties,Stop charging before {0} to avoid penalties
+stop_charging_before_s_to_avoid_penalties,Stop charging before %s to avoid penalties,Stop charging before %s to avoid penalties,Stop charging before %s to avoid penalties,Stop charging before %s to avoid penalties,Stop charging before %s to avoid penalties,Stop charging before %s to avoid penalties
+subject_star,Subject *,Subject *,Subject *,Subject *,Subject *,Subject *
+tax_id_number,Tax ID Number*,Tax ID Number*,Tax ID Number*,Tax ID Number*,Tax ID Number*,Tax ID Number*
+tax_office,Tax Office*,Tax Office*,Tax Office*,Tax Office*,Tax Office*,Tax Office*
+the_amount_must_be_greater_than_zero,The amount must be greater than zero.,The amount must be greater than zero.,The amount must be greater than zero.,The amount must be greater than zero.,The amount must be greater than zero.,The amount must be greater than zero.
+the_passwords_do_not_match_please_enter_the_same_password_in_both_fields_and_try_again,The passwords do not match. Please enter the same password in both fields and try again.,The passwords do not match. Please enter the same password in both fields and try again.,The passwords do not match. Please enter the same password in both fields and try again.,The passwords do not match. Please enter the same password in both fields and try again.,The passwords do not match. Please enter the same password in both fields and try again.,The passwords do not match. Please enter the same password in both fields and try again.
+the_result_of_recurring_payment_for_the_schedule_on_0,The result of recurring payment for the schedule on {0},The result of recurring payment for the schedule on {0},The result of recurring payment for the schedule on {0},The result of recurring payment for the schedule on {0},The result of recurring payment for the schedule on {0},The result of recurring payment for the schedule on {0}
+there_is_no_account_with_that_phone_number,There is no account with that phone number.,There is no account with that phone number.,There is no account with that phone number.,There is no account with that phone number.,There is no account with that phone number.,There is no account with that phone number.
+user_account_information,User Account Information,User Account Information,User Account Information,User Account Information,User Account Information,User Account Information
+user_already_registered,User already registered,User already registered,User already registered,User already registered,User already registered,User already registered
+user_not_found,User not found.,User not found.,User not found.,User not found.,User not found.,User not found.
+user_not_registered,User not registered,User not registered,User not registered,User not registered,User not registered,User not registered
+user_stats_information,User Status Information,User Status Information,User Status Information,User Status Information,User Status Information,User Status Information
+verification_code_could_not_be_sent,Verification code could not be sent,Verification code could not be sent,Verification code could not be sent,Verification code could not be sent,Verification code could not be sent,Verification code could not be sent
+we_sent_you_sms_code_for_sign_up,We sent you an SMS code for sign up.,We sent you an SMS code for sign up.,We sent you an SMS code for sign up.,We sent you an SMS code for sign up.,We sent you an SMS code for sign up.,We sent you an SMS code for sign up.
+wrong_sms_code,Wrong Sms Code,Wrong Sms Code,Wrong Sms Code,Wrong Sms Code,Wrong Sms Code,Wrong Sms Code
+your_booking_is_cancelled_successfully,Your booking is cancelled successfully,Your booking is cancelled successfully,Your booking is cancelled successfully,Your booking is cancelled successfully,Your booking is cancelled successfully,Your booking is cancelled successfully
+your_booking_time_has_come,Your booking time has come,Your booking time has come,Your booking time has come,Your booking time has come,Your booking time has come,Your booking time has come
+your_payment_could_not_be_processed_for_security_reasons_please_contact_your_bank,Your payment could not be processed for security reasons. Please contact your bank.,Your payment could not be processed for security reasons. Please contact your bank.,Your payment could not be processed for security reasons. Please contact your bank.,Your payment could not be processed for security reasons. Please contact your bank.,Your payment could not be processed for security reasons. Please contact your bank.,Your payment could not be processed for security reasons. Please contact your bank.
+your_reservation_has_been_cancelled_because_you_are_more_than_0_minutes_late,Your reservation has been cancelled because you are more than {0} minutes late.,Your reservation has been cancelled because you are more than {0} minutes late.,Your reservation has been cancelled because you are more than {0} minutes late.,Your reservation has been cancelled because you are more than {0} minutes late.,Your reservation has been cancelled because you are more than {0} minutes late.,Your reservation has been cancelled because you are more than {0} minutes late.
