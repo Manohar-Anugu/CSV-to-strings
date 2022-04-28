@@ -9,16 +9,18 @@ import android.util.Log
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.material.Button
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Surface
-import androidx.compose.material.Text
-import androidx.compose.runtime.Composable
+import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.text.KeyboardOptions
+import androidx.compose.material.*
+import androidx.compose.runtime.*
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Alignment
+import androidx.compose.ui.Alignment.Companion.CenterHorizontally
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
 import androidx.core.content.FileProvider
 import com.moschip.csv_to_strings.ui.theme.CSVtostringsTheme
 import com.nabinbhandari.android.permissions.PermissionHandler
@@ -26,19 +28,24 @@ import com.nabinbhandari.android.permissions.Permissions
 import com.opencsv.CSVReaderBuilder
 import com.opencsv.ICSVParser
 import com.opencsv.RFC4180ParserBuilder
+import org.intellij.lang.annotations.JdkConstants
 import java.io.File
 import java.io.FileOutputStream
 import java.io.InputStream
 import java.io.InputStreamReader
 
+var columnNo = mutableStateOf(4)
+
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
             CSVtostringsTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(color = MaterialTheme.colors.background) {
-                    ShareButton("Android")
+                    ScreenUi()
+
                 }
             }
         }
@@ -46,17 +53,44 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun ShareButton(name: String) {
+fun ScreenUi(){
+
+    Box(modifier = Modifier.fillMaxSize()) {
+        Column(modifier = Modifier.fillMaxSize(), horizontalAlignment = Alignment.CenterHorizontally) {
+            Spacer(modifier = Modifier.height(100.dp))
+            ColumnNoInputEditText()
+            Spacer(modifier = Modifier.height(100.dp))
+            ShareButton("Share Xml")
+        }
+
+    }
+}
+
+@Composable
+fun ShareButton(text: String) {
 
     val context = LocalContext.current
-    Button(onClick = {
-        Toast.makeText(context, "Hello", Toast.LENGTH_SHORT).show()
-        checkPermissionsAndReadCsv(context)
-                     },
-    modifier = Modifier.fillMaxWidth(0.7f)) {
+    Button(
+        onClick = {
+            checkPermissionsAndReadCsv(context, columnNo.value)
+        },
+        modifier = Modifier.fillMaxWidth(0.7f)
+    ) {
         Modifier.align(Alignment.Bottom)
-        Text(text = "Share Xml")
+        Text(text = text)
     }
+}
+
+@Composable
+fun ColumnNoInputEditText() {
+
+    TextField(value = columnNo.value.toString(), onValueChange = {
+        columnNo.value = it.toIntOrNull()?:0
+
+    },
+        label = { Text(text = "Enter Column No") },
+        keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number)
+    )
 }
 
 @Preview(showBackground = true)
@@ -68,8 +102,7 @@ fun DefaultPreview() {
 }
 
 
-
-private fun checkPermissionsAndReadCsv(context: Context) {
+ fun checkPermissionsAndReadCsv(context: Context,columnNo: Int) {
     val permissions = arrayOf(
         Manifest.permission.READ_EXTERNAL_STORAGE,
         Manifest.permission.WRITE_EXTERNAL_STORAGE
@@ -77,13 +110,12 @@ private fun checkPermissionsAndReadCsv(context: Context) {
     Permissions.check(context, permissions, null, null, object : PermissionHandler() {
         override fun onGranted() {
 
-            val columnNo = 6
-            readCsv(context,columnNo)
+            readCsv(context, columnNo)
         }
     })
 }
 
-private fun readCsv(context: Context,columnNo: Int) {
+private fun readCsv(context: Context, columnNo: Int) {
 
 
     val myInput: InputStream
@@ -108,11 +140,9 @@ private fun readCsv(context: Context,columnNo: Int) {
 
     while (nextLine != null) {
 
-        //change language no here
         var languageString = nextLine[columnNo]
 
         if (!languageString.isNullOrBlank()) {
-//                hindiString=nextLine[2]
 
 //            if (languageString.contains("&")) {
 //                languageString = languageString.replace("&", "&amp;")
@@ -122,8 +152,15 @@ private fun readCsv(context: Context,columnNo: Int) {
 //                languageString = "<u>$languageString</u>"
 //            }
 
-            xmlDataToWrite += ("<string name=\"${nextLine[0]}\">${languageString}</string>")
-            xmlDataToWrite += System.getProperty("line.separator")
+            // check if android key exists
+            if (!nextLine[0].isNullOrBlank()) {
+                val scriptKey = nextLine[2].lowercase()
+                if (scriptKey != "r" && scriptKey != "d") {
+                    languageString = languageString.replace("'","\\'")
+                    xmlDataToWrite += ("<string name=\"${nextLine[0].trim()}\">${languageString.trim()}</string>")
+                    xmlDataToWrite += System.getProperty("line.separator")
+                }
+            }
         }
 
         nextLine = reader.readNext()
@@ -131,16 +168,16 @@ private fun readCsv(context: Context,columnNo: Int) {
 
     xmlDataToWrite += System.getProperty("line.separator")
     xmlDataToWrite += "</resources>"
-    writeDataToFile(context  ,xmlDataToWrite)
+    writeDataToFile(context, xmlDataToWrite)
 
 }
 
 
-private fun writeDataToFile(context: Context,data: String?) {
+private fun writeDataToFile(context: Context, data: String?) {
 
     Log.d("Data", data.toString())
 
-    if (data.isNullOrBlank()){
+    if (data.isNullOrBlank()) {
         Toast.makeText(context, "No data", Toast.LENGTH_LONG).show()
         return
     }
@@ -162,7 +199,7 @@ private fun getFile(context: Context): File {
 }
 
 
-private fun shareFile(context: Context,file: File){
+private fun shareFile(context: Context, file: File) {
     val intentShareFile = Intent(Intent.ACTION_SEND)
 
     if (file.exists()) {
